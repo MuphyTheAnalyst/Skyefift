@@ -17,7 +17,7 @@
 <value>default</value>
 </preference>
 <preference><name>TARGET</name>
-<value>192.168.232.139</value>
+<value>192.168.232.140</value>
 </preference>
 <preference><name>LICENSE_ENFORCED_LIMIT</name>
 <value>16</value>

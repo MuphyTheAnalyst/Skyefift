@@ -182,7 +182,7 @@
 <value>09a76a53-ee1e-d4a4-d02f-f4f1b200d7ab9c7c15ce6be43d4b</value>
 </preference>
 <preference><name>hostMaxScanTimeHosts</name>
-<value>192.168.232.139</value>
+<value>192.168.232.140</value>
 </preference>
 <preference><name>bw_permanent_blackout_window</name>
 <value>no</value>
